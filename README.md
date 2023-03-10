@@ -9,3 +9,8 @@ must install the requirement.txt first and ad the API_KEY
 before running the program I hub this program help you
 
 ![Screenshot_2023-03-09_22-28-52](https://user-images.githubusercontent.com/127399440/224193180-5fa02da4-22a8-46a0-8b40-0ef9b9d71c41.png)
+
+
+YOU CAN watch this video to get more information how to use this program
+
+https://youtu.be/FkC973I-fqQ

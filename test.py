@@ -1,11 +1,8 @@
-import locale
+
 import re
 import subprocess
 import threading
-from tkinter import messagebox as msg, ttk
-
-import langid
-import pyautogui
+from tkinter import messagebox as msg
 from awesometkinter.bidirender import add_bidi_support
 from langdetect import detect
 import arabic_reshaper
